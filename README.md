@@ -1,6 +1,5 @@
 # python2-boilerplate
-python2-boilerplate is object-orientated boilerplate for Python 2.6 and up which you can easily use for making
-advanced Python scripts
+python2-boilerplate is object-orientated boilerplate for Python 2.6 and up from which you build advanced scripts with ease.
 
 In this boilerplate you can find the following features:
 - Usage of long and short Getopt options
