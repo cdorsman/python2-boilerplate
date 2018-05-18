@@ -48,7 +48,7 @@ class Options(object):
 
         try:
             opts, args = getopt.getopt(args, ':C:vV',
-                                       ('conf=', 'help', 'version', 'verbose'))
+                                       ('config=', 'help', 'version', 'verbose'))
         except getopt.error as go_err:
             print go_err
             sys.exit(1)
