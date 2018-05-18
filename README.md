@@ -7,4 +7,4 @@ In this boilerplate you can find the following features:
 - Configfile parsing with the option of setting default values, sampele configuration file included.
 - Advanced logging including configuration (Debug at default)
 
-The template has been build with PEP-8 guidelines.
+The template has been build with the PEP-8 guideline.
