@@ -28,6 +28,7 @@ class Options(object):
 
     @classmethod
     def __init__(self, args):
+        self.verbose = False
         """ 
         Parsing cli options
     
@@ -53,13 +54,11 @@ class Options(object):
             elif opt == '--help':
                 self.Usage()
                 sys.exit(0)
-            elif opt ==  '--version':
+            elif opt in ('-v', '--verbose'):
+                self.verbose = True
+            elif opt in ('-V', '--version'):
                 self.Version()
                 sys.exit(0)
-        
-        if not self.datasources and not self.workbooks:
-            self.Usage()
-            sys.exit()
 
         if not self.env:
             self.Usage()
