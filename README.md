@@ -3,8 +3,8 @@ python2-boilerplate is object-orientated boilerplate for Python 2.6 and up from 
 
 In this boilerplate you can find the following features:
 - Usage of long and short Getopt options
-- Configfile parsing with the option of setting default values, sampele configuration file included.
-- Advanced logging including configuration (Debug at default)
+- Configfile parsing with the option of setting default values, sample configuration file included.
+- Advanced logging including configuration (Debug at default) which logs even exceptions
 - No usage of third-party libraries 
 - Has been build with the PEP-8 guideline.
 - Easy to customize.
