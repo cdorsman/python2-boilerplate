@@ -8,4 +8,4 @@ In this boilerplate you can find the following features:
 - Advanced logging including configuration (Debug at default)
 - No usage of third-party libraries 
 - Has been build with the PEP-8 guideline.
-- Easily to edit.
+- Easy to customize.
