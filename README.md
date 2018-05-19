@@ -8,10 +8,10 @@ What is python2-boilerplate?
 
 Feature overview
 ----------------
-* Usage of long and short Getopt options
-* Configuration file parsing with the option of setting required, non-required and default values. 
-* Thorough advanced logging setup including configuration (Debug at default)
 * No usage of third-party libraries 
+* Usage of long and short CLI options.
+* Advanced parsing configuration file with the option of setting required, non-required and default values. 
+* Thorough advanced logging setup
 * Easy to customize.
 
 Requirements
