@@ -1,0 +1,4 @@
+language: python
+rvm:
+  - 2.6
+  - 2.7
